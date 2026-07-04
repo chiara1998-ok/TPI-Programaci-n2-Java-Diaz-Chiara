@@ -95,4 +95,3 @@ Durante el desarrollo del proyecto se aplicaron los siguientes conceptos:
 
 ---
 
-https://youtu.be/jbcMgkML4EI
